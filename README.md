@@ -123,4 +123,5 @@ A well-designed booking system reduces friction in the user journey, increases c
 - Review System: Allow users to leave reviews and ratings for properties.
 - Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
 ## API Security 
+## CI/CD Pipeline
 
