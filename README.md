@@ -115,7 +115,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 - GET /reviews/{review_id}/ - Retrieve a specific review
 - PUT /reviews/{review_id}/ - Update a specific review
 - DELETE /reviews/{review_id}/ - Delete a specific review
-## Features Breakdown
+## Feature Breakdown
 - User Management: Implement a secure system for user registration, authentication, and profile management.
 - Property Management: Develop features for property listing creation, updates, and retrieval.
 - Booking System: Create a booking mechanism for users to reserve properties and manage booking details.
